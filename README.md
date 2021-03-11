@@ -12,3 +12,8 @@ some screenshots :
 
 
     2- add owner name 
+ ![alt text](https://github.com/radheshamnagare/springBoot_Calculator/blob/42cb4c8d2f8b5b7c7d9897de4049f60a2cb8e48a/src/com/all_files/Screenshot%20from%202021-03-11%2022-26-34.png)   
+ 
+   3- all details we can print also
+   
+   
